@@ -79,7 +79,7 @@ footer {
 
 <div class="card">
 <img src="kurti1.jpg">
-<h3>Stylish Kurti</h3>
+<h3>Stylish Kurti(White)</h3>
 <p class="price">₹299</p>
 <button class="btn" onclick="addToCart('NEVER GIVE UP Top',199)">Add to Cart</button>
 </div>
