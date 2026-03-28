@@ -72,7 +72,7 @@ footer {
 
 <div class="card">
 <img src="top1.jpg">
-<h3>NEVER GIVE UP Top(Brown)</h3>
+<h3>NEVER GIVE UP Top(Green)</h3>
 <p class="price">₹199</p>
 <button class="btn" onclick="addToCart('NEVER GIVE UP Top',199)">Add to Cart</button>
 </div>
