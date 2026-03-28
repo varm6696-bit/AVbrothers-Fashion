@@ -72,22 +72,22 @@ footer {
 
 <div class="card">
 <img src="top1.jpg">
-<h3>NEVER GIVE UP Top</h3>
+<h3>NEVER GIVE UP Top(Brown)</h3>
 <p class="price">₹199</p>
 <button class="btn" onclick="addToCart('NEVER GIVE UP Top',199)">Add to Cart</button>
 </div>
 
 <div class="card">
 <img src="top2.jpg">
-<h3>Black Stylish Top</h3>
-<p class="price">₹249</p>
+<h3>NEVER GIVE UP Top(Black)</h3>
+<p class="price">₹199</p>
 <button class="btn" onclick="addToCart('Black Top',249)">Add to Cart</button>
 </div>
 
 <div class="card">
 <img src="top3.jpg">
-<h3>White Crop Top</h3>
-<p class="price">₹199</p>
+<h3>White Top</h3>
+<p class="price">₹249</p>
 <button class="btn" onclick="addToCart('White Top',199)">Add to Cart</button>
 </div>
 
