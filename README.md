@@ -78,6 +78,13 @@ footer {
 </div>
 
 <div class="card">
+<img src="kurti1.jpg">
+<h3>Stylish Kurti</h3>
+<p class="price">₹299</p>
+<button class="btn" onclick="addToCart('NEVER GIVE UP Top',199)">Add to Cart</button>
+</div>
+
+<div class="card">
 <img src="top2.jpg">
 <h3>NEVER GIVE UP Top(Black)</h3>
 <p class="price">₹199</p>
@@ -118,7 +125,7 @@ function addToCart(name, price){
 
 function orderNow(){
   let msg = "Order:\n" + items.join(", ") + "\nTotal ₹" + total;
-  window.open("https://wa.me/917248906682 text=" + encodeURIComponent(msg));
+  window.open("https://wa.me/7248906682 text=" + encodeURIComponent(msg));
 }
 
 function searchProduct(value){
