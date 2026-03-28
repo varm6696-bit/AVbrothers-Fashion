@@ -118,7 +118,7 @@ function addToCart(name, price){
 
 function orderNow(){
   let msg = "Order:\n" + items.join(", ") + "\nTotal ₹" + total;
-  window.open("https://wa.me/91XXXXXXXXXX?text=" + encodeURIComponent(msg));
+  window.open("https://wa.me/917248906682 text=" + encodeURIComponent(msg));
 }
 
 function searchProduct(value){
